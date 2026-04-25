@@ -1,4 +1,4 @@
-# Hi, I'm Srishti! 👋
+# Hi, I'm Srishti! 
 
 # 💫 About Me:
 🔭 I'm currently working on — web dev projects and diving into machine learning & agentic AI<br>👯 I'm looking to collaborate on — web apps, ML projects, or anything AI-related and exciting<br>🤔 I'm looking for help with — becoming more confident with full-stack web development<br>🌱 I'm currently learning — Gen AI, agentic AI frameworks, and leveling up my web dev skills<br>💭 Ask me about — computer networking, machine learning, or Google Vertex AI<br>⚡ Fun fact — Networking student by degree, but you'll find me building web apps and training models in my free time 😄
